@@ -9,7 +9,7 @@ This repository contains Python code for predicting car prices using a neural ne
 ## Usage
 1. Clone the repository:
   ```bash
-  git clone https://github.com/khush1709/car-price-prediction.git
+  git clone https://github.com/khush1709/Car-Price-Prediction-using-Neural-Networks.git
   ```
 
 2. Install the required libraries:
